@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,60): warning C4244:         with
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,60): warning C4244:         [
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,60): warning C4244:             T=float
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,60): warning C4244:         ]
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,46): warning C4244:         with
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,46): warning C4244:         [
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,46): warning C4244:             T=float
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(60,46): warning C4244:         ]
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(72,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(72,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(73,36): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(73,36): warning C4244:         with
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(73,36): warning C4244:         [
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(73,36): warning C4244:             T=float
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(73,36): warning C4244:         ]
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(74,36): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(74,36): warning C4244:         with
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(74,36): warning C4244:         [
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(74,36): warning C4244:             T=float
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(74,36): warning C4244:         ]
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(91,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(91,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(108,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(108,17): warning C4244:         with
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(108,17): warning C4244:         [
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(108,17): warning C4244:             T=float
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(108,17): warning C4244:         ]
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(109,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(109,17): warning C4244:         with
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(109,17): warning C4244:         [
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(109,17): warning C4244:             T=float
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(109,17): warning C4244:         ]
+C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\main.cpp(150,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake(le_bon).vcxproj -> C:\Users\aurel\Downloads\Snake(le_bon)\Snake(le_bon)\x64\Release\Snake(le_bon).exe
