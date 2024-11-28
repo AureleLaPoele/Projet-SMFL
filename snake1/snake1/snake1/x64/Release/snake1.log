@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(51,64): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(51,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(62,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(62,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(63,40): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(64,40): warning C4244: '=' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(73,71): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Downloads\snake1\snake1\main.cpp(73,57): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  1 of 24 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  snake1.vcxproj -> C:\Users\agodin\Downloads\snake1\snake1\x64\Release\snake1.exe

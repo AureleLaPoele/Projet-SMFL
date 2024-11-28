@@ -5,7 +5,7 @@
 #include <cstdlib>
 using namespace sf;
 
-// METTRE TOUTE LA apple DANS UN LISTE
+
 int generate_x() {
     int x = rand() % (750 - 50 + 1) + 50;
     while (x % 25 != 0) {
@@ -24,10 +24,13 @@ int generate_y() {
     return y;
 }
 
+void generate_tail();
+void display(RenderWindow window, RectangleShape line_top, RectangleShape line_bot, RectangleShape line_left, RectangleShape line_right, RectangleShape head, RectangleShape apple);
+
 int main() {
     std::cout << "Fait par Aurele le goat\n";
     RenderWindow window(VideoMode(800, 600), "Shnake");
-    int score = 0;
+    int score = 1;
     const int MAX_TOP = 24;
     const int MAX_BOT = 576;
     const int MAX_RIGHT = 776;
@@ -77,15 +80,13 @@ int main() {
     head.setPosition(400 - 25, 300 - 25);
     int head_direction[2];
     RectangleShape apple(Vector2f(25, 25));
-    apple.setPosition(600 - 25, 300 - 25);
+    apple.setPosition(generate_x(), generate_y());
 
     while (window.isOpen()) {
-        int randomNum = rand() % 801;
         Event event;
         while (window.pollEvent(event)) {
             if (event.type == Event::Closed)
                 window.close();
-
             if (event.type == Event::KeyPressed) {
                 if (event.key.code == Keyboard::A)
                     std::cout << "La touche A a été pressée!" << std::endl;
@@ -251,15 +252,23 @@ int main() {
                 }
             }
         }
-        window.clear();
-        window.draw(line_top);
-        window.draw(line_bot);
-        window.draw(line_left);
-        window.draw(line_right);
-        window.draw(apple);
-        window.draw(head);
-        window.display();
-
+        display(window, line_top, line_bot, line_left, line_right, head, apple);
     }
+
     return 0;
+}
+
+void generate_tail() {
+    std::cout << "zeub\n";
+}
+
+void display(RenderWindow window, RectangleShape line_top, RectangleShape line_bot, RectangleShape line_left, RectangleShape line_right, RectangleShape head, RectangleShape apple) {
+    window.clear();
+    window.draw(line_top);
+    window.draw(line_bot);
+    window.draw(line_left);
+    window.draw(line_right);
+    window.draw(apple);
+    window.draw(head);
+    window.display();
 }

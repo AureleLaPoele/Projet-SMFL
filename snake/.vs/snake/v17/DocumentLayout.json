@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\agodin\\Documents\\GitHub\\Projet-SMFL\\snake\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHkAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAnwP4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-25T15:44:23.316Z",
               "EditorCaption": ""

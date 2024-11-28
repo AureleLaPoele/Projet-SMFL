@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agodin\\Downloads\\snake1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3985607-B817-4D4B-8BE8-E282508C6DE9}|snake1\\snake1.vcxproj|C:\\Users\\agodin\\Downloads\\snake1\\snake1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3985607-B817-4D4B-8BE8-E282508C6DE9}|snake1\\snake1.vcxproj|solutionrelative:snake1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\agodin\\Downloads\\snake1\\snake1\\main.cpp",
+              "RelativeDocumentMoniker": "snake1\\main.cpp",
+              "ToolTip": "C:\\Users\\agodin\\Downloads\\snake1\\snake1\\main.cpp",
+              "RelativeToolTip": "snake1\\main.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T17:25:46.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

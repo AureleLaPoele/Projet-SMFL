@@ -1,15 +1,16 @@
 ﻿  main.cpp
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(122,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(122,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(162,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(162,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(202,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(202,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(241,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(241,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-  Génération de code en cours
-  1 of 78 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Fin de la génération du code
-  snake.vcxproj -> C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\x64\Release\snake.exe
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(83,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(83,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(123,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(123,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(163,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(163,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(203,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(203,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(242,75): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(242,61): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\agodin\Documents\GitHub\Projet-SMFL\snake\main.cpp(255,16): error C2280: 'sf::RenderWindow::RenderWindow(const sf::RenderWindow &)' : tentative de référencement d'une fonction supprimée
+C:\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\include\SFML\Graphics\RenderWindow.hpp(198,1): message : le compilateur a généré 'sf::RenderWindow::RenderWindow' ici
+C:\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\include\SFML\Graphics\RenderWindow.hpp(198,1): message : 'sf::RenderWindow::RenderWindow(const sf::RenderWindow &)' : la fonction a été supprimée implicitement, car un classe de base appelle une fonction supprimée ou inaccessible 'sf::Window::Window(const sf::Window &)'
+C:\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\include\SFML\Window\Window.hpp(282,1): message : 'sf::Window::Window(const sf::Window &)' : la fonction a été supprimée implicitement, car un classe de base appelle une fonction supprimée ou inaccessible 'sf::WindowBase::WindowBase(const sf::WindowBase &)'
+C:\SFML-2.6.1-windows-vc17-64-bit\SFML-2.6.1\include\SFML\Window\WindowBase.hpp(475,1): message : 'sf::WindowBase::WindowBase(const sf::WindowBase &)' : la fonction a été supprimée implicitement, car un classe de base appelle une fonction supprimée ou inaccessible 'sf::NonCopyable::NonCopyable(const sf::NonCopyable &)'
